@@ -1,2 +1,2 @@
 # Text-Summarisation
-Creating Text Summary using T5 Transformers
+Creating Text Summary using pre-trained T5 Transformers
